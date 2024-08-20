@@ -1,0 +1,19 @@
+1- aff_g
+
+2- ft_swap
+
+3- odd
+
+4- count_len
+
+5- ulstr
+
+6- ft_strcmp
+
+7- ft_atoi
+
+8- aff_last_param
+
+9- title
+
+10- count_words
