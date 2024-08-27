@@ -6,7 +6,7 @@
 /*   By: yurolive <yurolive@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/11 17:02:51 by yurolive          #+#    #+#             */
-/*   Updated: 2024/08/11 18:48:35 by yurolive         ###   ########.fr       */
+/*   Updated: 2024/08/11 17:19:27 by yurolive         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -82,5 +82,5 @@ void	ft_print_combn(int n)
 
 /*int	main(void)
 {
-	ft_print_combn(3);
+	ft_print_combn(2);
 }*/

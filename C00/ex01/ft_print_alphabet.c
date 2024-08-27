@@ -6,7 +6,7 @@
 /*   By: yurolive <yurolive@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/11 15:38:37 by yurolive          #+#    #+#             */
-/*   Updated: 2024/08/11 18:46:37 by yurolive         ###   ########.fr       */
+/*   Updated: 2024/08/27 15:44:32 by yurolive         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,8 +23,8 @@ void	ft_print_alphabet(void)
 		alp += 1;
 	}
 }
-
-/*int	main(void)
+/*
+int	main(void)
 {
 	ft_print_alphabet();
 }*/
