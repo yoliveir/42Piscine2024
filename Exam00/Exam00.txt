@@ -1,1 +1,19 @@
-AÑANDIR EJERCICIOS
+1- only_a
+V1:OK
+
+2- aff_i
+V1:OK
+
+3- maff_revalpha
+V1:OK
+
+4- ft_mull
+V1:OK
+
+5- write_string
+V1:OK
+
+6- swap_cases
+V1:KO
+V2:KO
+V3:KO
