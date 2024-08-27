@@ -1,19 +1,33 @@
 1- aff_g
+V1:OK
 
 2- ft_swap
+V1:OK
 
 3- odd
+V1:OK
 
 4- count_len
+V1:OK
 
 5- ulstr
+V1:KO
+V2:OK
 
 6- ft_strcmp
+V1:OK
 
 7- ft_atoi
+V1:KO
+V2:KO
+V3:OK
 
 8- aff_last_param
+V1:OK
 
 9- title
+V1:OK
 
 10- count_words
+V1:KO
+V2:OK
