@@ -1,0 +1,29 @@
+1- aff_m
+V1:OK
+
+2- maf_revalpha
+V1:OK
+
+3- print_interval
+V1:OK
+
+4- ft_strlen
+V1:OK
+
+5- ft_putnbr
+V1:OK
+
+6- aff_first_param
+V1:OK
+
+7- wdmatch
+V1:KO
+V2:OK
+
+8- count_words
+V1:KO
+V2:OK
+
+9- ft_range
+V1:KO
+V2:KO
